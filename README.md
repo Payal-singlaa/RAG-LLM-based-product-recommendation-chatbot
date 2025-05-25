@@ -92,4 +92,4 @@ streamlit run chatbot.py
 ## 🧑‍💻 Author
 
 **Payal Singla**  
-[GitHub](https://github.com/Payal-singlaa) | [LinkedIn](www.linkedin.com/in/payal-singla-287880257)
+[GitHub](https://github.com/Payal-singlaa) | [LinkedIn](https://www.linkedin.com/in/payal-singla-287880257)
