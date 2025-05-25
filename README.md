@@ -67,7 +67,16 @@ streamlit run chatbot.py
 
 ## 📸 Demo Preview
 
-> _(Add a screenshot or gif here showing the chatbot recommending products)_
+<p align="center">
+  <img src="ss/1.png" width="45%" style="margin: 0px 10px;"/>
+  <img src="ss/2.png" width="45%" style="margin: 0px 10px;"/>
+</p>
+
+<p align="center">
+  <img src="ss/3.png" width="45%" style="margin: 0px 10px;"/>
+  <img src="ss/4.png" width="45%" style="margin: 0px 10px;"/>
+</p>
+
 
 ---
 
